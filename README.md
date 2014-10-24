@@ -9,10 +9,14 @@ Template para uso com metaio-SDK para iOS. Para utilizar basta fazer o download 
 ```objectivec
 metaioSDK.framework
 ```
+
+
 Links
 =====
 [Metaio SDK Download](http://www.metaio.com/products/sdk/) - Metaio SDK Download
-[InovaCidades](http://www.inovacidades.org.br/)
+
+
+[InovaCidades](http://www.inovacidades.org.br/) Centro de Inovação em Cidades Inteligentes
 
 
 
