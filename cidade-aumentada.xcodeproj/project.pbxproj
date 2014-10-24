@@ -14,6 +14,24 @@
 		CEFC78F119FA7852001573B6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEFC78F019FA7852001573B6 /* Images.xcassets */; };
 		CEFC78F419FA7852001573B6 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CEFC78F219FA7852001573B6 /* LaunchScreen.xib */; };
 		CEFC790019FA7852001573B6 /* cidade_aumentadaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CEFC78FF19FA7852001573B6 /* cidade_aumentadaTests.m */; };
+		CEFC791319FA78AA001573B6 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEFC790C19FA78AA001573B6 /* CoreGraphics.framework */; };
+		CEFC791419FA78AA001573B6 /* CoreImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEFC790D19FA78AA001573B6 /* CoreImage.framework */; };
+		CEFC791519FA78AA001573B6 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEFC790E19FA78AA001573B6 /* CoreLocation.framework */; };
+		CEFC791619FA78AA001573B6 /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEFC790F19FA78AA001573B6 /* CoreMedia.framework */; };
+		CEFC791819FA78C4001573B6 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEFC791719FA78C4001573B6 /* Security.framework */; };
+		CEFC791A19FA78E2001573B6 /* EventKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEFC791919FA78E2001573B6 /* EventKit.framework */; };
+		CEFC791C19FA78EA001573B6 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEFC791B19FA78EA001573B6 /* CFNetwork.framework */; };
+		CEFC791E19FA78F6001573B6 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEFC791D19FA78F6001573B6 /* MediaPlayer.framework */; };
+		CEFC792019FA7903001573B6 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEFC791F19FA7903001573B6 /* AVFoundation.framework */; };
+		CEFC792219FA790D001573B6 /* CoreVideo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEFC792119FA790D001573B6 /* CoreVideo.framework */; };
+		CEFC792419FA7917001573B6 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEFC792319FA7917001573B6 /* QuartzCore.framework */; };
+		CEFC792619FA7921001573B6 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEFC792519FA7921001573B6 /* AudioToolbox.framework */; };
+		CEFC792819FA792E001573B6 /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEFC792719FA792E001573B6 /* OpenGLES.framework */; };
+		CEFC792A19FA7937001573B6 /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEFC792919FA7937001573B6 /* CoreMotion.framework */; };
+		CEFC792C19FA7943001573B6 /* libxml2.2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = CEFC792B19FA7943001573B6 /* libxml2.2.dylib */; };
+		CEFC792E19FA7957001573B6 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = CEFC792D19FA7957001573B6 /* libz.dylib */; };
+		CEFC793019FA795F001573B6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEFC792F19FA795F001573B6 /* UIKit.framework */; };
+		CEFC793219FA7968001573B6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEFC793119FA7968001573B6 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +58,27 @@
 		CEFC78F919FA7852001573B6 /* cidade-aumentadaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "cidade-aumentadaTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEFC78FE19FA7852001573B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CEFC78FF19FA7852001573B6 /* cidade_aumentadaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = cidade_aumentadaTests.m; sourceTree = "<group>"; };
+		CEFC790919FA78AA001573B6 /* CoreAudio.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreAudio.framework; path = System/Library/Frameworks/CoreAudio.framework; sourceTree = SDKROOT; };
+		CEFC790A19FA78AA001573B6 /* CoreAudioKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreAudioKit.framework; path = System/Library/Frameworks/CoreAudioKit.framework; sourceTree = SDKROOT; };
+		CEFC790B19FA78AA001573B6 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
+		CEFC790C19FA78AA001573B6 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		CEFC790D19FA78AA001573B6 /* CoreImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreImage.framework; path = System/Library/Frameworks/CoreImage.framework; sourceTree = SDKROOT; };
+		CEFC790E19FA78AA001573B6 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		CEFC790F19FA78AA001573B6 /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
+		CEFC791719FA78C4001573B6 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		CEFC791919FA78E2001573B6 /* EventKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = EventKit.framework; path = System/Library/Frameworks/EventKit.framework; sourceTree = SDKROOT; };
+		CEFC791B19FA78EA001573B6 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		CEFC791D19FA78F6001573B6 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		CEFC791F19FA7903001573B6 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		CEFC792119FA790D001573B6 /* CoreVideo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreVideo.framework; path = System/Library/Frameworks/CoreVideo.framework; sourceTree = SDKROOT; };
+		CEFC792319FA7917001573B6 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		CEFC792519FA7921001573B6 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		CEFC792719FA792E001573B6 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
+		CEFC792919FA7937001573B6 /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = System/Library/Frameworks/CoreMotion.framework; sourceTree = SDKROOT; };
+		CEFC792B19FA7943001573B6 /* libxml2.2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.2.dylib; path = usr/lib/libxml2.2.dylib; sourceTree = SDKROOT; };
+		CEFC792D19FA7957001573B6 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		CEFC792F19FA795F001573B6 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		CEFC793119FA7968001573B6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +86,24 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEFC791419FA78AA001573B6 /* CoreImage.framework in Frameworks */,
+				CEFC791819FA78C4001573B6 /* Security.framework in Frameworks */,
+				CEFC791A19FA78E2001573B6 /* EventKit.framework in Frameworks */,
+				CEFC791C19FA78EA001573B6 /* CFNetwork.framework in Frameworks */,
+				CEFC791E19FA78F6001573B6 /* MediaPlayer.framework in Frameworks */,
+				CEFC792019FA7903001573B6 /* AVFoundation.framework in Frameworks */,
+				CEFC791519FA78AA001573B6 /* CoreLocation.framework in Frameworks */,
+				CEFC791619FA78AA001573B6 /* CoreMedia.framework in Frameworks */,
+				CEFC792219FA790D001573B6 /* CoreVideo.framework in Frameworks */,
+				CEFC792419FA7917001573B6 /* QuartzCore.framework in Frameworks */,
+				CEFC792619FA7921001573B6 /* AudioToolbox.framework in Frameworks */,
+				CEFC792819FA792E001573B6 /* OpenGLES.framework in Frameworks */,
+				CEFC792A19FA7937001573B6 /* CoreMotion.framework in Frameworks */,
+				CEFC792C19FA7943001573B6 /* libxml2.2.dylib in Frameworks */,
+				CEFC792E19FA7957001573B6 /* libz.dylib in Frameworks */,
+				CEFC793019FA795F001573B6 /* UIKit.framework in Frameworks */,
+				CEFC793219FA7968001573B6 /* Foundation.framework in Frameworks */,
+				CEFC791319FA78AA001573B6 /* CoreGraphics.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +120,27 @@
 		CEFC78D719FA7852001573B6 = {
 			isa = PBXGroup;
 			children = (
+				CEFC793119FA7968001573B6 /* Foundation.framework */,
+				CEFC792F19FA795F001573B6 /* UIKit.framework */,
+				CEFC792D19FA7957001573B6 /* libz.dylib */,
+				CEFC792B19FA7943001573B6 /* libxml2.2.dylib */,
+				CEFC792919FA7937001573B6 /* CoreMotion.framework */,
+				CEFC792719FA792E001573B6 /* OpenGLES.framework */,
+				CEFC792519FA7921001573B6 /* AudioToolbox.framework */,
+				CEFC792319FA7917001573B6 /* QuartzCore.framework */,
+				CEFC792119FA790D001573B6 /* CoreVideo.framework */,
+				CEFC791F19FA7903001573B6 /* AVFoundation.framework */,
+				CEFC791D19FA78F6001573B6 /* MediaPlayer.framework */,
+				CEFC791B19FA78EA001573B6 /* CFNetwork.framework */,
+				CEFC791919FA78E2001573B6 /* EventKit.framework */,
+				CEFC791719FA78C4001573B6 /* Security.framework */,
+				CEFC790919FA78AA001573B6 /* CoreAudio.framework */,
+				CEFC790A19FA78AA001573B6 /* CoreAudioKit.framework */,
+				CEFC790B19FA78AA001573B6 /* CoreFoundation.framework */,
+				CEFC790C19FA78AA001573B6 /* CoreGraphics.framework */,
+				CEFC790D19FA78AA001573B6 /* CoreImage.framework */,
+				CEFC790E19FA78AA001573B6 /* CoreLocation.framework */,
+				CEFC790F19FA78AA001573B6 /* CoreMedia.framework */,
 				CEFC78E219FA7852001573B6 /* cidade-aumentada */,
 				CEFC78FC19FA7852001573B6 /* cidade-aumentadaTests */,
 				CEFC78E119FA7852001573B6 /* Products */,
