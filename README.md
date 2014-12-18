@@ -3,7 +3,7 @@ metaio-sdk-setup
 
 Sobre
 =====
-[![imagem](https://raw.githubusercontent.com/InovaCidades/metaio-sdk-setup/master/cidade-aumentada/Readme/logo.png)](http://www.metaio.com/products/sdk/)
+[![imagem](https://raw.githubusercontent.com/InovaCidades/metaio-sdk-setup/master/cidade-aumentada/Readme/logo.png)](https://github.com/InovaCidades)
 
 Template para uso com metaio-SDK para iOS. Para utilizar basta fazer o download e adicionar ao projeto o arquivo:
 ```objectivec
